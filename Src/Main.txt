@@ -4,6 +4,8 @@ Public static void main(){
 
 println("Hi enjoy the life")
 
+println("Lests do it")
+
 
 
 
